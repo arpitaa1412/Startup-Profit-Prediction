@@ -1,6 +1,3 @@
-# Startup-Profit-Prediction
-Predict startup profit using Multiple Linear Regression.
-
 # 🚀 Startup Profit Prediction using Multiple Linear Regression
 
 A Machine Learning project that predicts the profit of a startup based on its **R&D Spend**, **Administration Cost**, **Marketing Spend**, and **Region** using **Multiple Linear Regression**.
