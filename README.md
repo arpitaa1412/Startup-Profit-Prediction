@@ -75,10 +75,9 @@ Startup-Profit-Prediction/
 ├── 50StartupProfit.csv
 │
 └── images/
-    ├── workflow.png
-    ├── correlation_heatmap.png
-    ├── profit_trend.png
-    └── actual_vs_predicted.png
+    ├── Flow Diagram.png
+    ├── Startup Profit Trend Based on R&D Investment.png
+    └── actual_vs_predicted profit.png
 ```
 
 ---
