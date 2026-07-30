@@ -126,19 +126,15 @@ The model explains approximately **89%** of the variation in startup profit, ind
 
 ### Workflow
 
-![Workflow](images/Flow Diagram.png)
-
----
+![Workflow](images/Flow%20Diagram.png)
 
 ### Profit Trend
 
-![Profit Trend](images/Startup Profit Trend Based on R&D Investment.png)
-
----
+![Profit Trend](images/Startup%20Profit%20Trend%20Based%20on%20R%26D%20Investment.png)
 
 ### Actual vs Predicted Profit
 
-![Actual vs Predicted Profit](images/actual_vs_predicted profit.png)
+![Actual vs Predicted Profit](images/actual_vs_predicted%20profit.png)
 
 ---
 
